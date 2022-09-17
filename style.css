@@ -95,10 +95,10 @@ nav{
 
 .behind-one{
     position:absolute;
-    width:740px;
+    width:700px;
     z-index: 1;
-    top:55%;
-    left:6%;
+    top:58%;
+    left:7%;
     object-fit: cover;
 }
 
